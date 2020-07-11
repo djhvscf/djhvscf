@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm a software developer from Costa Rica :costa_rica:. Exploring new technologies and a Xamarin lover.
+
+- 🔭 I’m currently working on [Bootstrap Table](https://github.com/wenzhixin/bootstrap-table) as a maintainer.
+- 📫 You can reach me at dennishernandezvargas@gmail.com or [Twitter](https://twitter.com/djhvs)
+- 💬 Ask me about anything you want.
+
+
 <!--
 **djhvscf/djhvscf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

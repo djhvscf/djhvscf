@@ -7,7 +7,7 @@ I'm a software developer from Costa Rica :costa_rica:. Exploring new technologie
 - 🔭 I’m currently working on [Bootstrap Table](https://github.com/wenzhixin/bootstrap-table) as a maintainer.
 - 📫 You can reach me at dennishernandezvargas@gmail.com or [Twitter](https://twitter.com/djhvs)
 - 💬 Ask me about anything you want.
-<a href="https://www.buymeacoffee.com/djhvscf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 117px !important;" ></a>
+- <a href="https://www.buymeacoffee.com/djhvscf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 60px !important;" ></a>
 
 <!--
 **djhvscf/djhvscf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
